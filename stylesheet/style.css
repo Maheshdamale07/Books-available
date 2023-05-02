@@ -45,18 +45,58 @@
 
 .img-cont{
      
-    background-color: black;
-    height: 700px;
+     
+    height: 500px;
    
     
      
 }
-.img-conteiner{
-    background-color: blue;
-     height: 700px;
-    
-}
  
+.mahesh{
+  position: relative;
+  background-color: #ff105f;
+  width: 200px;
+   
+  
+  
+}
+.Quality{
+  position: absolute;
+  padding-left: 730px;
+  
+  
+}
+.stud{
+  font-size: 40px;
+  padding-top: 30px;
+  color: white;
+   
+}
+.Ouraim{
+  position: absolute;
+  padding-left: 730px;
+  padding-top: 200px;
+  font-size: 25px;
+  color: white;
+   
+   
+}
+.header-img{
+       
+  position: absolute;
+  height: 450px;
+  padding-top: 20px;
+   margin-left: 40px;
+  padding-left: 90px;
+  
+   
+}
+.header-box{
+  position: absolute;
+  height: 450px;
+   
+  width: 450px;
+}
 /*login and register page start---------------*/
 
 *{
